@@ -1,4 +1,6 @@
-zrecho """ ____    _    ____  _   _           _   _ _  ___        ___  __
+clear
+echo """
+____    _    ____  _   _           _   _ _  ___        ___  __
 | __ )  / \  / ___|| | | |  _____  | | | | || \ \      / / |/ /
 |  _ \ / _ \ \___ \| |_| | |_____| | |_| | || |\ \ /\ / /| ' / 
 | |_) / ___ \ ___) |  _  | |_____| |  _  |__   _\ V  V / | . \ 
@@ -9,8 +11,8 @@ zrecho """ ____    _    ____  _   _           _   _ _  ___        ___  __
 | |_| |  _|| |___ /  \ 
  \___/|_|   \____/_/\_/
                        """
-echo"1.TERMİNAL UPDATE "
-echo"2.Hacking tools installer ha ha , just for fun"
+echo "1.TERMİNAL UPDATE "
+echo "2.Hacking tools installer ha ha , just for fun"
                            
 echo "1 / 2 -> "
 read input
